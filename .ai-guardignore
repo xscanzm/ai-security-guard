@@ -1,0 +1,11 @@
+# 规则库里是“用来匹配坏代码的正则”，不是坏代码本身
+scripts/rules.py
+
+# 本仓库的 SKILL.md 是规则说明，里面含危险写法示例
+SKILL.md
+
+# 演示项目、文档反例、测试夹具都是故意写坏的
+examples/
+references/
+templates/
+tests/
